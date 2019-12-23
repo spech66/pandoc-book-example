@@ -1,0 +1,6 @@
+---
+title: "Book Example"
+author: Sebastian Pech
+rights: Nah
+language: de-DE
+---
